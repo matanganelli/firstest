@@ -1,2 +1,2 @@
 # firstest
-my first repository
+my first repository be nice
